@@ -1,0 +1,41 @@
+2
+Google
+2
+Software Developer Engineer
+1
+10000
+2002
+2020
+2
+6
+8
+null
+Software Developer Engineer Intern
+1
+5000
+null
+null
+0
+2
+9
+null
+Amazon
+2
+Software Developer Engineer
+1
+12000
+2014
+2020
+1
+null
+9
+null
+Software Developer Engineer Intern
+1
+6000
+null
+null
+0
+2
+9.30
+null

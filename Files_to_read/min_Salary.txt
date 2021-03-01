@@ -1,0 +1,5 @@
+4
+MinSalary:2000
+Position:Intern
+MinSalary:10000
+Position:2000
